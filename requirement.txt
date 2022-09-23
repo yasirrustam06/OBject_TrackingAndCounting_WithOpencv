@@ -1,0 +1,10 @@
+#    Object tracking  and counting with opencv-python  
+
+### This is the object tracking and counting repo in (livestream or webcam ) or from given video If you want to run in  you machine place all 
+these three files in to your working directory and then run it 
+
+
+           Packages you need to install 
+----->>   pip install opencv-python
+----->>   pip install numpy
+----->>   pycharm or any other python enviroment software 
