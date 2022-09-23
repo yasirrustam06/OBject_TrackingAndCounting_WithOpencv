@@ -2,6 +2,6 @@
 ### `import cv2`
 ### `import numpy as np`
 
-OUTPUT 
+# `Results `
 
 ![Object Tracking and counting](https://user-images.githubusercontent.com/98689629/191984015-2156d88b-d8f3-407a-9057-e062e3d4182c.png)
